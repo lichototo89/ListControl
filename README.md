@@ -4,4 +4,4 @@ Repositorio que contiene la aplicación Web de pase de lista para Orientadores y
 Author: LUIS ANTONIO AGUILAR MARTÍNEZ
 
 # Documentación 1 (Dev1)
-Este es solo un ejemplo de la documentación que podnría el Dev1
+Este es solo un ejemplo de la documentación que pondría el Dev1
